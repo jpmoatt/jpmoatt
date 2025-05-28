@@ -1,10 +1,15 @@
 ## Hi, my name is Josh Moatt 👋
 
-📊 I'm a statistician in the UK Civil Service
+📊 I'm a statistician and data scientist in the UK Civil Service
 
 🚜 I'm currently working in the Farming Statistics team at the Department for Environment, Food and Rural Affairs
 
 💻 My work involves developing and improving analytical processes, with a strong emphasis on building Reproducible Analytical Pipelines 🔁 
+
+📂 Some of my recent projects included:   
+  * ♻️ [Organic farming statistics in the UK](https://www.gov.uk/government/collections/organic-farming)
+  * 🐄 [Agriculture in the UK dashboard](https://defra-farming-stats.github.io/auk-dashboard/)
+  * 📈 [Farm productivity dashboard](https://defra-farming-stats.github.io/productivity-dashboard/)
 
 🧬 I'm an evolutionary biologist by training, completing a PhD at the University of Edinburgh in 2017. 
 
