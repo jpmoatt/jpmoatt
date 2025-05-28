@@ -6,7 +6,7 @@
 
 💻 My work involves developing and improving analytical processes, with a strong emphasis on building Reproducible Analytical Pipelines 🔁 
 
-📂 Some of my recent projects included:   
+📂 Some of my recent projects include:   
   * ♻️ [Organic farming statistics in the UK](https://www.gov.uk/government/collections/organic-farming)
   * 🐄 [Agriculture in the UK dashboard](https://defra-farming-stats.github.io/auk-dashboard/)
   * 📈 [Farming productivity dashboard](https://defra-farming-stats.github.io/productivity-dashboard/)
