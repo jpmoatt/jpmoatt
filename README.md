@@ -1,4 +1,4 @@
-## Hello, my name is Josh Moatt 👋
+## Hi, my name is Josh Moatt 👋
 
 📊 I'm a statistician in the UK Civil Service
 
