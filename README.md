@@ -8,3 +8,6 @@
 
 🧬 I'm an evolutionary biologist by training, completing a PhD at the University of Edinburgh in 2017. 
 
+### 🧰 My toolbox
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat)
