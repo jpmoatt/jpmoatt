@@ -9,7 +9,7 @@
 📂 Some of my recent projects included:   
   * ♻️ [Organic farming statistics in the UK](https://www.gov.uk/government/collections/organic-farming)
   * 🐄 [Agriculture in the UK dashboard](https://defra-farming-stats.github.io/auk-dashboard/)
-  * 📈 [Farm productivity dashboard](https://defra-farming-stats.github.io/productivity-dashboard/)
+  * 📈 [Farming productivity dashboard](https://defra-farming-stats.github.io/productivity-dashboard/)
 
 🧬 I'm an evolutionary biologist by training, completing a PhD at the University of Edinburgh in 2017. 
 
